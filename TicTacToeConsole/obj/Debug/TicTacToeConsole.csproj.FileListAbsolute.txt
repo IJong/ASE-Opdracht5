@@ -1,0 +1,9 @@
+c:\users\ingrid\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\bin\Debug\TicTacToeConsole.exe.config
+c:\users\ingrid\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\bin\Debug\TicTacToeConsole.exe
+c:\users\ingrid\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\bin\Debug\TicTacToeConsole.pdb
+c:\users\ingrid\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.exe
+c:\users\ingrid\documents\visual studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.pdb
+C:\Users\Ingrid\Documents\Visual Studio 2013\Projects\TicTacToeConsole\TicTacToeConsole\obj\Debug\TicTacToeConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ingrid\Source\Repos\ASE-Opdracht5\TicTacToeConsole\bin\Debug\TicTacToeConsole.exe.config
+C:\Users\Ingrid\Source\Repos\ASE-Opdracht5\TicTacToeConsole\obj\Debug\TicTacToeConsole.exe
+C:\Users\Ingrid\Source\Repos\ASE-Opdracht5\TicTacToeConsole\obj\Debug\TicTacToeConsole.pdb
